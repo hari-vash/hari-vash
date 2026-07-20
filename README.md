@@ -8,6 +8,7 @@ I'm Hariansh, a fresh AI/ML grad based in New Delhi.
 - **Applied Focus Areas:** Computer Vision, NLP, LLM/RAG, Transfer Learning, Transformers
 - **MLOps & Deployment:** MLflow, DVC, Docker, FastAPI, Git, Streamlit
 - **Data & Analysis:** Pandas, NumPy, Matplotlib, Jupyter, EDA
+- **Agentic AI:** LangChain, LangGraph, LangSmith, Prompt Engineering
 - **System:** Linux/UNIX (Arch Linux)
 
 ### 🌱 Beyond the code
